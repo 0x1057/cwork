@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Archive\\cwork\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1945D74-C33F-4CE8-868A-EC32E0AC9DC1}|Project2\\Project2.csproj|c:\\archive\\cwork\\project2\\project2\\src\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1945D74-C33F-4CE8-868A-EC32E0AC9DC1}|Project2\\Project2.csproj|solutionrelative:project2\\src\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cs",
+              "DocumentMoniker": "C:\\Archive\\cwork\\Project2\\Project2\\src\\main.cs",
+              "RelativeDocumentMoniker": "Project2\\src\\main.cs",
+              "ToolTip": "C:\\Archive\\cwork\\Project2\\Project2\\src\\main.cs",
+              "RelativeToolTip": "Project2\\src\\main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T00:20:18.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

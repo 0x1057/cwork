@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Archive\\cwork\\tutorialPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FF36DA-866C-4052-8EF7-1848AC9AAC91}|tutorialPractice\\tutorialPractice.vcxproj|C:\\Archive\\cwork\\tutorialPractice\\tutorialPractice\\tutorialPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B0FF36DA-866C-4052-8EF7-1848AC9AAC91}|tutorialPractice\\tutorialPractice.vcxproj|solutionrelative:tutorialPractice\\tutorialPractice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tutorialPractice.cpp",
+              "DocumentMoniker": "C:\\Archive\\cwork\\tutorialPractice\\tutorialPractice\\tutorialPractice.cpp",
+              "RelativeDocumentMoniker": "tutorialPractice\\tutorialPractice.cpp",
+              "ToolTip": "C:\\Archive\\cwork\\tutorialPractice\\tutorialPractice\\tutorialPractice.cpp",
+              "RelativeToolTip": "tutorialPractice\\tutorialPractice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-04T16:15:56.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
