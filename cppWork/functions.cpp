@@ -2,6 +2,9 @@
 #include <random>
 #include <ctime>
  
+int getNumHumans();
+int getNumSkeletons();
+
 using namespace std;
  
 int main()
@@ -34,16 +37,11 @@ int main()
  
     cout << "*** Skeletons Vs Humans! ***\n\n";
  
-    //Get the number of humans
-    cout << "Enter the number of humans: ";
-    cin >> numHumans;
- 
+    numHumans = getNumHumans();
     startHumans = numHumans;
+    
  
-    //Get the number of skeletons
-    cout << "Enter the number of skeletons: ";
-    cin >> numSkeletons;
- 
+    numSkeletons = getNumSkeletons();
     startSkeletons = numSkeletons;
  
     cout << "\nBeginning combat!\n\n";
@@ -97,6 +95,24 @@ int main()
  
     //KILL COUNTER!
     cout << startHumans - numHumans << " humans and " << startSkeletons - numSkeletons << " skeletons lost their lives.\n\n";
- 
+
     return 0;
+}
+
+int getNumHumans()
+{
+    //Get the number of humans
+    int numHumans = 0;
+    cout << "Enter the number of humans: ";
+    cin >> numHumans;
+    return numHumans;
+}
+
+int getNumSkeletons()
+{
+    //Get the number of skeletons
+    int numSkeletons;
+    cout << "Enter the number of skeletons: ";
+    cin >> numSkeletons;
+    return numSkeletons;
 }
